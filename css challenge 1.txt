@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+     <meta charset="utf-8">
+     <title>Challenge: Colorful creature</title>
+  </head> 
+  <body> 
+
+<h1>The coolest creature</h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Maned_Wolf_stretching_muscles_-_Lobo_Guar%C3%A1.jpg"
+ alt="the maned wolf" width="200">
+
+ <p>The <em>maned wolf </em> is awesome because <strong>it ihelps in seed dispersal of fruits</strong> especially the wolf apple. they are crepuscular and omnivores animals adapted to the open environment.</p> 
+
+
+  </body>
+</html>
