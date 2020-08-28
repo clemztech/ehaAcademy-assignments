@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Vegetable Soup</td>
+                    <td>Egu leaf, spices, palm oil, pepper</td>
+                    <td>$15.00</td>
+                </tr>
+                <tr>
+                    <td>Okra Soup</td>
+                    <td>Okra, spices, pepper, palm oil, </td>
+                    <td>$10.00</td>
+                </tr>
+                <tr>
+                    <td>pepper Soup</td>
+                    <td>goat meat, pepper, Palm oil, spices</td>
+                    <td>$20.00</td>
+                </tr>
+
+</tbody>
+        </table>
+
+    </body>
+</html>
