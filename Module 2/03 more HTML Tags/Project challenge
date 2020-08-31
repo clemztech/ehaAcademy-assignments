@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Recipe Book</title>
+        <style type="text/css">
+        	
+        	body{
+
+        		background-color: rgb(135,206,250);
+        	}
+
+        	#Recipes{
+        		color: white;
+        	}
+
+        </style>
+    </head>
+    <body>
+
+    <h1 id="Recipes">Deborah's Recipe </h1>
+
+    <p>Jump to sections:
+        <a href="#egusi soup">egusi soup</a> 
+        <a href="#Okra Soup">OkraSoup</a>,
+        
+  
+    </p>
+    
+    <h3 id="egusi soup">egusi soup</h3>
+
+    <p>Egusi soup is unarguably the most popular Nigerian soup. 
+    <h3>COMPLETE INGREDIENTS FOR EGUSI SOUP</h3>
+<p>When cooking EGUSI soup take note of the following.</p>
+<ol>
+	<li>2KG Assorted meat </li>
+   <li>4 cups of egusi (melon)</li>
+   <li>Roasted fish (about two medium sizes)</li>
+   <li>1 cup of ground crayfish</li>
+   <li>2 cups of washed bitter leaves</li>
+   <li>3 seasoning cubes</li>
+   <li>300ml of palm oil</li>
+   <li>About 2 liters of water</li>
+   <li>Salt to taste</li>
+   <li>Pepper to taste (scotch bonnet).</li>
+   <li>One medium-sized Stock fish head (okporoko)</li>
+   <li>20g Dawadawa or opkei (local ingredients)</li>
+</ol>
+<p>The above-listed ingredients will make a large pot of egusi soup, see the bottom of this page. This soup will serve a family of 4 three times. You can always refrigerate leftovers.</p>
+    <h3>HOW TO COOK EGUSI SOUP</h3>
+<p>below are the method or ways to cook egusi soup.
+    <ol>
+<li>Grind the four cups of egusi with a dry blender or hand grinding machine and set aside in a bowl. </li>
+<li>Add about a cup of water to it and stir to make a very thick paste.</li>
+<li>Be sure that the bitter leaves (onugbu) are properly washed, it is advisable to remove over 95 percent of the bitter taste, this process is known to most Nigerians, it involves washing and squeezing the bitter leaves for several minutes in a very big bowl.</li>
+<li>Parboil the meat with all the necessary ingredients, it is advisable to parboil meat with some ingredient before adding to the main food, this improves the taste of the meat.
+
+Parboil for about ten minutes, then add water and cook till the meat is tender and the stock (water) is about to dry. Use two seasoning cubes, a teaspoon of salt and a half cup of sliced onions.</li>
+
+<li>Pour hot water over the stockfish in a bowl and wash thoroughly to remove sand, then set aside. Also remove center bone from the roasted fishes, wash and set aside too.</li>
+<li>Set your cooking pot on the fire and add 300ml of palm oil (red oil), allow to heat for a minute but don’t allow to bleach.</li>
+<li> Add the egusi paste and keep stirring for the next eight to ten minutes to form seed-like crumbs.</li>
+<li>Then transfer the already cooked meat into the pot, stir.</li>
+<li>Add the washed dry fish, stockfish, ground crayfish, a seasoning cube, ground scotch bonnet pepper and 6 cups of water.</li>
+<li> then cover half way and allow to boil for the next ten minutes.</li>
+<li>Stir occasionally to avoid burning.</li>
+
+<li>Add the already washed bitter leaves, one spoon of ground dawadawa (local ingredients), taste for salt and pepper</li>
+<li> Allow to boils for ten minutes, stir every 3 minutes and you just made a delicious pot of egusi soup.</li>
+</ol>
+
+<a href="https://allnigerianfoods.com/nigerian-egusi-soup">Recipe's Source...</a>
+
+    <h3 id="Okra Soup">Okra Soup</h3>
+		<p> Okra soup is one of the popular soup in Nigeria especially among the igbos. if we'll ganish I bet you you will enjoy it.
+		</p>
+		<h3>COMPLETE INGREDIENTS FOR OKRA SOUP </h3>
+		<ol>
+<li> lb  young  okra pods</li>
+ <li> 2 large tomatoes</li>
+<li>2  cups of water (Chicken or Beef stock or broth may be substitute)</li>
+ <li> 2 slices  thick lean platter bacon</li>
+<li>1lemon (zested and halved or thickly sliced and seeded, see bottom)</li>
+<li>salt and fresh coarse black pepper to taste</li>
+  </ol>
+<h3> HOW TO COOK OKRA SOUP<h3>
+<p>below is the recipe on how to cook Okra soup</p>
+ <ol>
+<li>Wash okra and trim off stems, and dry</li>
+<li>srinkle okra with oil and place under broiler until lightly browned or fry in vegetable oil until lightly browned (do not use same oil for browning meat).</li>
+<li>Sauté chopped onions, diced garlic, lamb meat, salt, and spices in olive oil(stirring occasionally) until meat is lightly browned.</li>
+<li>Add water and stir, bring to boil and then cover and cook on low heat until meat is tender</li>
+<li>Add browned okra, chopped tomatoes or (28 oz can diced tomatoes) and ½ cup fresh cilantro or 1 teaspoon coriander (optional).</li>
+<li>Mix well, cover and simmer until okra is tender.</li>
+<li>This meal is excellent when served hot with rice</li>
+		</ol>
+<a href="https://www.google.com/amp/s/www.food.com/amp/recipe/okra-stew-arabic-recipe-205630">Recipe's Source...</a>
+
+    <p>
+    <a href="#Recipes">Recipes</a> | <a href="#egusi soup">egusi soup</a> ||
+        <a href="#okra soup">Okra Soup</a> 
+
+    </p>
+
+    </body>
+</html>
+    
