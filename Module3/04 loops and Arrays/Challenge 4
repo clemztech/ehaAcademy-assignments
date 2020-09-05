@@ -1,0 +1,27 @@
+<!Doctype html>
+
+<html>
+  <head>
+    <title>Challenge: Cars Listing</title>
+  </head>
+
+    <body>
+      <script>
+
+      var cars = ['Toyota', 'Honda', 'Mazda', 'Mitsubishi', 'Tesla', 'Lexus'];
+
+      console.log(cars[0]);
+      console.log(cars.length);
+
+      cars.push ('Mercedes-Benz');
+      console.log(cars[6]);
+
+      for (var i=0; i < cars.length; i++) {
+        console.log ('i is', i)
+      }
+
+      </script>
+    </body>
+
+  </head>
+</html>
