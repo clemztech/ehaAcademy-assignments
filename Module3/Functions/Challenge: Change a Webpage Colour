@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title> Third Challenge(Function)</title>
+</head>
+       <style>
+    body{
+      margin-top: 200px;
+
+      text-align:center;
+      }
+
+      input{
+          width:200px;
+          height: 50px;
+
+      }
+    </style>
+
+    <script type="text/javascript">
+
+    function backgroundbg(background){
+    document.body.style.background='blue';
+    }
+    </script>
+
+
+
+
+<body>
+  <div class="mdi">
+    <input type="button" name="click" value="change background" onclick="backgroundbg()">
+   </div>
+</body>
+
+</html>
